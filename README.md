@@ -1,2 +1,2 @@
-# MergeDocuments.NET8
+# MergeDocuments
 Sample code that merges documents into PDF.
